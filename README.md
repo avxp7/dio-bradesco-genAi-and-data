@@ -16,7 +16,7 @@ Este repositório reúne todos os projetos e exercícios que desenvolvi durante 
 
 > (*"Como Alan Turing e a máquina Bombe venceram a cifra Enigma?"* — Uma das interações simuladas no projeto.)
 
-![Screenshot do Turing](interationTuring.png)
+![Screenshot do Turing](assets/testTuring.png)
 
 ---
 *Status: Em progresso ⏳)*
