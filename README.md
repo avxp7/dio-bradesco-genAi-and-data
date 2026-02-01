@@ -18,5 +18,7 @@ Este repositório reúne todos os projetos e exercícios que desenvolvi durante 
 
 ![Screenshot do Turing](media/testTuring.png)
 
+### Link para o chat com "Alan Turing- AI": (https://notebooklm.google.com/notebook/27ba05da-8595-440b-b854-4a0183deb8eb?authuser=3)
+
 ---
 *Status: Em progresso ⏳)*
