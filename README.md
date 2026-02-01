@@ -18,5 +18,12 @@ Este repositório reúne todos os projetos e exercícios que desenvolvi durante 
 
 ![Screenshot do Turing](media/testTuring.png)
 
+### Link para a conversa com "Alan Turing - AI": (https://notebooklm.google.com/notebook/27ba05da-8595-440b-b854-4a0183deb8eb?authuser=3)
+
+
+📊 [Módulo 02] Nome da Outra Disciplina
+Descrição: [Aguardando o tema da sua outra matéria para completar aqui].
+
+Status: ⏳ Em progresso...
 ---
 *Status: Em progresso ⏳)*
