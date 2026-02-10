@@ -1,11 +1,10 @@
-# 🎓 Bradesco - GenAI & Dados - Digital Innovation One
-Este repositório reúne todos os projetos e exercícios que desenvolvi durante o bootcamp de IA do Bradesco na DIO.
-
+# 🎓 Projeto: Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM.
+Bradesco - GenAI & Dados - Digital Innovation One
 
 ## 📁 Organização do Repositório
 
-### 🤖 [Módulo 01] Acelere seu Aprendizado com IA Generativa
-* **O que é:** Neste modulo foi apresentado os fundamentos dos Grandes Modelos de Linguagem (LLM) e Pequenos Modelos de Linguagem  (SLM), o funcionamento de uma a IA, engenharia de prompt, aplicações praticas e a exploração da plataforma NotebookLM.
+### 🤖 - Acelere seu Aprendizado com IA Generativa
+* **O que é:** Neste curso foi apresentado os fundamentos dos Grandes Modelos de Linguagem (LLM) e Pequenos Modelos de Linguagem  (SLM), o funcionamento de uma a IA, engenharia de prompt, aplicações praticas e a exploração da plataforma NotebookLM.
 * **Projeto:** Para este projeto, configurei o **NotebookLM** para atuar como uma persona específica. Em vez de uma resposta genérica de IA, utilizei documentos sobre a história da computação para que a IA respondesse como se fosse o próprio **Alan Turing**.
 * **Aprendizados:** Análise de fontes, audio Overview e redução de alucinação da IA.
 - **O que foi feito:** Alimentei a ferramenta com fontes biográficas onde contém a trajetoria de Turing ate criar o mecanismo por tras da ENIGMA, motivações, contexto e a técnica utilizada e a sua vida pessoal.
